@@ -1,1 +1,6 @@
-{"name": "CertiStay"}
+{
+  "name": "CertiStay",
+  "short_name": "CertiStay",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
