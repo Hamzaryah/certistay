@@ -1,6 +1,8 @@
 {
-  "name": "CertiStay",
+  "name": "CertiStay V2",
   "short_name": "CertiStay",
   "start_url": "./index.html",
-  "display": "standalone"
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10"
 }
